@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.inFolder("dramatis-personae")
+properties:
+  file.name:
+    displayName: Name
+views:
+  - type: table
+    name: View
+    order:
+      - file.name
+      - description
+    sort:
+      - property: file.name
+        direction: DESC
+    columnSize:
+      file.name: 203

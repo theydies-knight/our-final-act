@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.folder == "adventure-log"
+views:
+  - type: table
+    name: View

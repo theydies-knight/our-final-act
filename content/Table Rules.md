@@ -18,17 +18,18 @@ The GM can spend points from their pool to enhance enemy rolls, introduce compli
 
 # Home Rule: Loric Inspiration
 
-During the debrief after each session, the players will have an opportunity to award Loric Inspiration to one Player Character. This permits the character to add a die to any attack roll, skill check, or saving throw. The die value scales similarly to a Bardic Inspiration die. A character may only have a single instance of Loric Inspiration at a time. 
+During the debrief after each session, the players will have an opportunity to award Loric Inspiration to one Player Character. This permits the character to add a die to any attack roll, skill check, or saving throw. The die value scales similarly to a Bardic Inspiration die. A character may only have a single instance of Loric Inspiration at a time.
 
 | Levels | Die  |
-| :----: | :---: |
+| :----: | :--: |
 |  1-4   | 1d6  |
 |  5-9   | 1d8  |
 | 10-14  | 1d10 |
 | 15-20  | 1d12 |
+
 # Heroic Inspiration
 
-***Rules as Written.*** **Heroic Inspiration** may be used to reroll *any* single die. 
+**_Rules as Written._** **Heroic Inspiration** may be used to reroll _any_ single die.
 
 # Home Rule: Hit Dice
 
@@ -44,11 +45,11 @@ During the debrief after each session, the players will have an opportunity to a
 
 # Rest Casting:
 
-***Rules as Intended.*** Before taking a Long Rest, you may "Ready an Action" to cast long term spells when you start your day. (*Mage Armor, Gift of Alacrity, Hero's Feast, etc.*) You must have the appropriate spell slot available *before* resting. Rest Casting will allow you to benefit from these spells while benefitting from fully restored spell slots.
+**_Rules as Intended._** Before taking a Long Rest, you may "Ready an Action" to cast long term spells when you start your day. (_Mage Armor, Gift of Alacrity, Hero's Feast, etc._) You must have the appropriate spell slot available _before_ resting. Rest Casting will allow you to benefit from these spells while benefitting from fully restored spell slots.
 
 # Home Rule: Retreat
 
-In a dire situation when the party decides that retreat is the best option, the party may decide to take a **Full Retreat**. If a retreat is not possible for an encounter, the DM must specify *before* initiative is rolled.
+In a dire situation when the party decides that retreat is the best option, the party may decide to take a **Full Retreat**. If a retreat is not possible for an encounter, the DM must specify _before_ initiative is rolled.
 
 ## In order to execute a retreat:
 
