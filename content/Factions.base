@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.folder == "lore/factions"
+views:
+  - type: table
+    name: View

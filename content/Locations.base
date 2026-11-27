@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.folder == "locations"
+views:
+  - type: table
+    name: View

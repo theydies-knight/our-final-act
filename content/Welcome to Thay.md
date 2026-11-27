@@ -16,7 +16,7 @@ Understanding Thay requires grasping its fundamental paradox: it is simultaneous
 
 However, this economic dominance and architectural magnificence sit atop a brutal fascist caste system. Thay is ruled by a tyrant class of powerful spellcasters known as the Red Wizards. In this society, common folk and those lacking arcane talent possess zero recognized legal rights. They exist at the absolute mercy of ruthless magocrats who punish any perceived defiance with immediate execution, soul binding, or forced labor in magic item fabrication facilities.
 
-For starting player characters entering the campaign at level 11, this oppressive atmosphere is sharpened by immediate urgency. The 400-year-old lich Szass Tam, Zulkir of Necromancy, openly declared his intention to reclaim his title as Regent. As such, he would claim ultimate authority over Thay. Prudence borne by those amongst the Open Eyes would seek ulterior motives. Alas, the lich's surveillance networks actively hunt political dissidents. Survival in this setting demands mastery of spycraft, cover identities, surveillance tradecraft, and lethal arcane combat.
+For starting player characters entering the campaign at level 11, this oppressive atmosphere is sharpened by immediate urgency. The 400-year-old lich [[Szass Tam]], Zulkir of Necromancy, openly declared his intention to reclaim his title as Regent. As such, he would claim ultimate authority over Thay. Prudence borne by those amongst the [[Open Eyes]] would seek ulterior motives. Alas, the lich's surveillance networks actively hunt political dissidents. Survival in this setting demands mastery of spycraft, cover identities, surveillance tradecraft, and lethal arcane combat.
 
 To navigate this gilded cage of magocratic tyranny without drawing the gaze of state informants, operatives must first master the strict hierarchies that govern Thayan life.
 
@@ -24,7 +24,7 @@ To navigate this gilded cage of magocratic tyranny without drawing the gaze of s
 
 ### 2.1 The Red Wizards
 
-At the absolute apex of Thayan society stand the Red Wizards—scheming mages who firmly believe it is their divine destiny to conquer and rule the known world. Their word is supreme law, backed by state power. The only entity legally capable of overruling a Red Wizard is a more powerful Red Wizard.
+At the absolute apex of Thayan society stand the [[Red Wizards]]—scheming mages who firmly believe it is their divine destiny to conquer and rule the known world. Their word is supreme law, backed by state power. The only entity legally capable of overruling a Red Wizard is a more powerful Red Wizard.
 
 To navigate Thayan society effectively, operatives must distinguish between public legal markers (_What Thayans Know_) and the internal worldviews that drive Red Wizard behavior (_Red Wizard Hallmarks_):
 
@@ -49,10 +49,7 @@ Less frequently enforced laws prohibit violent crimes and lesser offenses such a
 
 #### Crime
 
-{{watercolor9,top:500px,left:400px,width:400px,background-color:#BBAD82,opacity:80%}}
-With such uneven enforcement, cri
-
-me is rampant in Thay. The city of Bezantur is home to massive criminal guilds, but every tharch has its own underworld profiting off the greed, corruption, and abuses of power for which Red Wizards are known. Theft, bribery, smuggling, assassination, blackmail, and every other kind of grift are common in Thayan society. It's almost impossible for a traveler to move through the realm without falling victim to a few crimes.
+With such uneven enforcement, crime is rampant in Thay. The city of Bezantur is home to massive criminal guilds, but every tharch has its own underworld profiting off the greed, corruption, and abuses of power for which Red Wizards are known. Theft, bribery, smuggling, assassination, blackmail, and every other kind of grift are common in Thayan society. It's almost impossible for a traveler to move through the realm without falling victim to a few crimes.
 
 ### 2.2 The Council of Zulkirs
 
@@ -78,24 +75,24 @@ Thay's zulkirs accumulate enormous resources prior to ascending to the council. 
 
 While the Council of Zulkirs dictates grand national policy, warfare, and foreign trade, daily civil governance and counter-intelligence operations are delegated through a dense bureaucracy:
 
-- **Tharchs & Tharchions:** Thay is divided geographically into eleven administrative provinces called **tharchs**. Each tharch is governed autonomously by a **tharchion** appointed by the Council. Most tharchions are former military commanders who manage local taxation, infrastructure, garrison forces, and provincial security.
-- **Autharchs:** Tharchions delegate local municipal duties to **autharchs**—lesser civil functionaries serving as mayors, magistrates, tax collectors, and station chiefs. Autharchs exist under extreme stress: incompetent autharchs are executed, while overly capable autharchs are routinely purged before becoming political threats to their governors.
+- **[[Tharchs]] & [[Tharchions]]:** Thay is divided geographically into eleven administrative provinces called **tharchs**. Each tharch is governed autonomously by a **tharchion** appointed by the Council. Most tharchions are former military commanders who manage local taxation, infrastructure, garrison forces, and provincial security.
+- **Autharchs:** Tharchions delegate local municipal duties to **autharchs**—lesser civil functionaries serving as mayors, magistrates, tax collectors, and station chiefs. [[Autharchs]] exist under extreme stress: incompetent autharchs are executed, while overly capable autharchs are routinely purged before becoming political threats to their governors.
 
 ##### Tharchs of Thay
 
-| Tharch    | Tharchion         | Capital           | Description                                              |
-| --------- | ----------------- | ----------------- | -------------------------------------------------------- |
-| The Alaor | Bavak Inkander    | Ala City          | Two islands harboring a navy and Thay's shipyards        |
-| Delhumide | Meskie Kudd       | Umratharos        | Haunted pastureland with ancient ruins                   |
-| Eltabbar  | Zedivek Mazradash | Eltabbar          | Capital region pouring out Thayan propaganda             |
-| Gauros    | Ozgund Gar        | Fort Gar          | Hilly hinterland where distrust of the zulkirs runs deep |
-| Lapendrar | Keliza Vyrizek    | Escalant          | Fertile countryside with dangerous borders               |
-| Priador   | Xelnene Thrul     | Bezantur          | Thay's commercial hub                                    |
-| Pyarados  | Mevik Sasvar      | Pyarados          | Mountainous mining region                                |
-| Surthay   | Vederax Skarsk    | Surthay           | Swampland bordering Rashemen                             |
-| Thaymount | Szass Tam         | Szul              | Mountainous abode of Red Wizards; forbidden to others    |
-| Thazalhar | Jynnril           | Thazalhar Station | Fortified river lands bordering Mulhorand                |
-| Tyraturos | Bulgor Ograzep    | Tyraturos         | Urbane mercantile hub                                    |
+| Tharch       | Tharchion             | Capital           | Description                                              |
+| ------------ | --------------------- | ----------------- | -------------------------------------------------------- |
+| The Alaor    | Bavak Inkander        | Ala City          | Two islands harboring a navy and Thay's shipyards        |
+| Delhumide    | Meskie Kudd           | Umratharos        | Haunted pastureland with ancient ruins                   |
+| [[Eltabbar]] | [[Zedivek Mazradash]] | Eltabbar          | Capital region pouring out Thayan propaganda             |
+| Gauros       | Ozgund Gar            | Fort Gar          | Hilly hinterland where distrust of the zulkirs runs deep |
+| Lapendrar    | Keliza Vyrizek        | Escalant          | Fertile countryside with dangerous borders               |
+| Priador      | Xelnene Thrul         | Bezantur          | Thay's commercial hub                                    |
+| Pyarados     | Mevik Sasvar          | Pyarados          | Mountainous mining region                                |
+| Surthay      | Vederax Skarsk        | Surthay           | Swampland bordering Rashemen                             |
+| Thaymount    | Szass Tam             | Szul              | Mountainous abode of Red Wizards; forbidden to others    |
+| Thazalhar    | Jynnril               | Thazalhar Station | Fortified river lands bordering Mulhorand                |
+| Tyraturos    | Bulgor Ograzep        | Tyraturos         | Urbane mercantile hub                                    |
 
 ##### Tharchions of Thay
 
@@ -115,9 +112,9 @@ While the Council of Zulkirs dictates grand national policy, warfare, and foreig
 
 ### 2.4 Thayan Knights & Private Armies
 
-To enforce their will and maintain personal security, high-ranking Red Wizards employ **Thayan Knights**. These martial champions shave their heads, wear decorative facial and head tattoos, and swear binding lifetime oaths of personal service to their wizard patrons. Wearing heavy armor and wielding spell-augmented weaponry, a Thayan Knight acts as an elite personal bodyguard and military captain.
+To enforce their will and maintain personal security, high-ranking Red Wizards employ **[[Thayan Knights]]**. These martial champions shave their heads, wear decorative facial and head tattoos, and swear binding lifetime oaths of personal service to their wizard patrons. Wearing heavy armor and wielding spell-augmented weaponry, a Thayan Knight acts as an elite personal bodyguard and military captain.
 
-Thay lacks a unified, centralized army. Instead, the nation relies on private military forces raised, equipped, and garrisoned by individual Red Wizards or Tharchions. These armies directly reflect the arcane specializations of their masters: Evokers deploy elemental shock troops, Illusionists rely on tactical trickery and lethal ambushes, and Szass Tam commands the infamous **Dread Legion**—a terrifying war machine composed of skeletal legionnaires, fiends, and undead warriors led by Death Knights Slethisz Vendrein and Hazrash Kulmantle.
+Thay lacks a unified, centralized army. Instead, the nation relies on private military forces raised, equipped, and garrisoned by individual Red Wizards or Tharchions. These armies directly reflect the arcane specializations of their masters: Evokers deploy elemental shock troops, Illusionists rely on tactical trickery and lethal ambushes, and Szass Tam commands the infamous **[[Dread Legion]]**—a terrifying war machine composed of skeletal legionnaires, fiends, and undead warriors led by Death Knights Slethisz Vendrein and Hazrash Kulmantle.
 
 While this top-heavy political structure maintains absolute control through arcane and martial power, the common populace has developed distinct survival strategies to endure beneath it.
 
@@ -147,18 +144,16 @@ Thayan society is strictly stratified into three distinct socio-economic tiers. 
 
 1. **The Ruling Aristocracy (Red Wizards):** The absolute social elite composed of Red Wizards, their immediate families, scions, sages, and favored apprentices. They hold total legal impunity and control the nation's military and economic engine.
 2. **The Middle Class:** Composed of bureaucrats, trade merchants, officers, artisans, and state-sanctioned priests. While living in relative comfort, their security depends on absolute deference to the ruling mages.
-
 3. **The Working Class:** The massive foundation of Thay's population, consisting of laborers, farmers, miners, dockworkers, and indentured servants. Tied largely to their places of birth, they endure brutal physical labor and harsh taxation with zero legal protections.
 
 ### 3.2 Traditions of Survival: Closed Eyes vs. Open Eyes
 
 To survive under the constant surveillance of Red Wizard informants and state scrying, ordinary Thayans adhere to two opposing cultural traditions:
 
-|                     |                                                                                                                                                                                     |                                                                                                                                                                                                     |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cultural Tradition  | Core Philosophy                                                                                                                                                                     | Impact on Society & Espionage                                                                                                                                                                       |
-| **The Closed Eyes** | _“Ignore trouble that doesn’t concern you.”_ Emulates the migratory cranes of Thay by focusing strictly on daily personal survival, securing food, and protecting immediate family. | Creates a widespread culture of intentional blindness. Commoners deliberately look away from street violence, public executions, and sub-rosa agent operations to avoid drawing state surveillance. |
-| **The Open Eyes**   | _“Strike back against tyranny in the shadows.”_ A secret, decentralized underground resistance network composed of covert rebel cells fighting magocratic oppression.               | Operates through covert sabotage, stealing spell components, hijacking magic item shipments, and orchestrating targeted assassinations. Discovery carries an absolute death sentence.               |
+| Cultural Tradition | Core Philosophy                                                                                                                                                                     | Impact on Society & Espionage                                                                                                                                                                       |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Closed Eyes**    | _“Ignore trouble that doesn’t concern you.”_ Emulates the migratory cranes of Thay by focusing strictly on daily personal survival, securing food, and protecting immediate family. | Creates a widespread culture of intentional blindness. Commoners deliberately look away from street violence, public executions, and sub-rosa agent operations to avoid drawing state surveillance. |
+| **Open Eyes**      | _“Strike back against tyranny in the shadows.”_ A decentralized underground resistance network composed of covert rebel cells fighting magocratic oppression.                       | Operates through covert sabotage, stealing spell components, hijacking magic item shipments, and orchestrating targeted assassinations. Discovery carries an absolute death sentence.               |
 
 ### 3.3 Divine Worship in Thay
 
@@ -180,11 +175,19 @@ These social dynamics and spiritual allegiances play out across a dramatically e
 
 Geographically, Thay resembles a massive, two-tiered wedding cake rising abruptly above the surrounding eastern realms. This massive natural elevation creates formidable defensive barriers against foreign invasion:
 
-- **Lower Thay:** The lowest tier at sea level, curving along the western and southern coastlines. It features fertile agricultural fields, massive livestock herds, and crucial shipping channels. Because of its border access, Lower Thay serves as the strategic launching pad for foreign military campaigns. The land rises dramatically into the middle tier via the sheer cliffs of the **First Escarpment**.
-- **The Thayan Plateau:** The vast, populous middle tier of the nation. It consists of rolling vistas, sprawling metropolitan centers, arid plains, and haunted Mulhorandi ruins. The plateau extends toward the center of the nation, where it terminates at the sheer precipices of the **Second Escarpment**.
-- **Thaymount:** The highest, central volcanic plateau. Forbidden to all except high-ranking Red Wizards and their invited guests, Thaymount houses private magical research spires, undead-staffed fabrication plants, and Szass Tam’s massive subterranean stronghold, **The Citadel**.
+#### Lower Thay
 
-#### Magically Induced Climate Anomalies
+The lowest tier at sea level, curving along the western and southern coastlines. It features fertile agricultural fields, massive livestock herds, and crucial shipping channels. Because of its border access, Lower Thay serves as the strategic launching pad for foreign military campaigns. The land rises dramatically into the middle tier via the sheer cliffs of the **First Escarpment**.
+
+#### The Thayan Plateau
+
+The vast, populous middle tier of the nation. It consists of rolling vistas, sprawling metropolitan centers, arid plains, and haunted Mulhorandi ruins. The plateau extends toward the center of the nation, where it terminates at the sheer precipices of the **Second Escarpment**.
+
+#### Thaymount
+
+The highest, central volcanic plateau. Forbidden to all except high-ranking Red Wizards and their invited guests, Thaymount houses private magical research spires, undead-staffed fabrication plants, and Szass Tam’s massive subterranean stronghold, **The Citadel**.
+
+### 4.2 Magically Induced Climate Anomalies
 
 Centuries ago, the Red Wizards instituted permanent weather-controlling arcana across the arid landscape. While this ensures ample rainfall for crops across the volcanic soil, it results in frequent, unnatural atmospheric disruptions:
 
@@ -193,7 +196,7 @@ Centuries ago, the Red Wizards instituted permanent weather-controlling arcana a
 - Light, stinging drizzles that persist for hours despite bone-dry atmospheric air.
 - Wispy clouds racing wildly across the sky during absolute, windless calms.
 
-### 4.2 Eltabbar (The Capital)
+### 4.3 Eltabbar (The Capital)
 
 Eltabbar is the sprawling capital city of Thay, serving as its primary political hub, administrative center, and primary seat of power for the Council of Zulkirs.
 
@@ -207,35 +210,55 @@ Although Eltab has since escaped his bonds, the containment glyphs permanently a
 
 ##### Primary Operational Wards
 
-- **Zulkirs' Ward:** The breathtaking political apex of Thay. Features soaring spires topped with illusory waterfalls, private palatial estates for all eight Zulkirs, and suspended aerial chambers where state bureaucrats jockey for power.
-- **Mages' Ward:** An elite district of gleaming mansions, scribes' workshops, and high-end arcana shops. While common street crime is nonexistent due to intense watch presence, sub-rosa assassinations between rival mages occur frequently.
-- **Bazaar Ward:** The commercial heart of Eltabbar, built over central canals. Famous for "Market First Days" (the first day of each month), where high-fashion houses, exotic imports, and rare magic items are traded under tight security.
-- **Apprentices' Ward:** An academic sector filled with grand libraries, reading rooms, and the prestigious **Tower of the Arcane**—Thay's premier state-sanctioned magic academy.
-- **Warehouse Ward:** Situated along Lake Thaylambar, this bustling shipping district handles massive magic item exports operated by the Guild of Foreign Trade and major transport fronts.
-- **Eltab's Ward:** A desolate, crime-ridden slum built directly over the subterranean demonic prison. Packed with cramped tenements and crooked taverns like the _Hidden Lord's Lair_, it serves as a breeding ground for underground rebel cells.
+- **Zulkirs' Ward:**
+    - The breathtaking political apex of Thay. Features soaring spires topped with illusory waterfalls, private palatial estates for all eight Zulkirs, and suspended aerial chambers where state bureaucrats jockey for power.
+- **Mages' Ward:**
+    - An elite district of gleaming mansions, scribes' workshops, and high-end arcana shops. While common street crime is nonexistent due to intense watch presence, sub-rosa assassinations between rival mages occur frequently.
+- **Bazaar Ward:**
+    - The commercial heart of Eltabbar, built over central canals. Famous for "Market First Days" (the first day of each month), where high-fashion houses, exotic imports, and rare magic items are traded under tight security.
+- **Apprentices' Ward:**
+    - An academic sector filled with grand libraries, reading rooms, and the prestigious **Tower of the Arcane**—Thay's premier state-sanctioned magic academy.
+- **Warehouse Ward:**
+    - Situated along Lake Thaylambar, this bustling shipping district handles massive magic item exports operated by the Guild of Foreign Trade and major transport fronts.
+- **Eltab's Ward:**
+    - A desolate, crime-ridden slum built directly over the subterranean demonic prison. Packed with cramped tenements and crooked taverns like the _Hidden Lord's Lair_, it serves as a breeding ground for underground rebel cells.
 
 ##### Secondary Operational Wards
 
-- **Canal Ward:** A clean, residential ward housing bazaar workers, elite servants, and middle-class merchants.
-- **Lower Ward:** A bustling middle-class district hosting long-term accommodations for foreign travelers, mercenaries, and visiting agents, including the famous **Crystal Ball Inn**.
-- **Workshop Ward:** The heavy industrial district housing fabrication plants where magic items are mass-produced and spell scrolls are scribed by indentured workers.
-- **Ward of Towers:** A dense concentration of high-level research spires, including _Mythrellaa's Tower of Illusions_, dedicated to developing grand rituals.
+- **Canal Ward:**
+    - A clean, residential ward housing bazaar workers, elite servants, and middle-class merchants.
+- **Lower Ward:**
+    - A bustling middle-class district hosting long-term accommodations for foreign travelers, mercenaries, and visiting agents, including the famous **Crystal Ball Inn**.
+- **Workshop Ward:**
+    - The heavy industrial district housing fabrication plants where magic items are mass-produced and spell scrolls are scribed by indentured workers.
+- **Ward of Towers:**
+    - A dense concentration of high-level research spires, including _Mythrellaa's Tower of Illusions_, dedicated to developing grand rituals.
 
-### 4.3 Notable Regional Tharchs
+### 4.4 Notable Regional Tharchs
 
 Outside the capital, Thay's remaining ten tharchs offer distinct regional flavors, political threats, and operational environments:
 
-- **Priador:** The commercial heart of Thay. Features the massive port city of **Bezantur**, home to the Guild of Foreign Trade headquarters, expansive naval docks, and massive magic item fabrication plants.
-- **Pyarados:** A rugged mining region along the Sunrise Mountains. Unscrupulous Red Wizards work living laborers to death in the mines and then raise them as undead to continue mining operations indefinitely.
-- **Lapendrar:** A southwestern border province hosting the autonomous free city of **Amruthar**. Red Wizards hold no legal authority within Amruthar, making it a sanctuary for dissidents; however, city authorities require all entrants to survive a _Zone of Truth_ spell, and all deceased individuals are questioned via _Speak with Dead_ to prevent Thayan infiltration.
-- **Surthay:** A cold, swampy northern backwater containing the fetid **Surmarsh**. Characterized by hostile lizardfolk clans under Sovereigns Vrill and Xornil Fangbane, and ongoing border skirmishes with Rashemen.
-- **Gauros:** Rugged, monster-infested mining hills where Tharchion Ozgund Gar garrisons conscripts at **Fort Gar** against an active, gathering army of gnolls led by a Glabrezu named **Krazt**.
+- **Priador:**
+    - The commercial heart of Thay. Features the massive port city of **Bezantur**, home to the Guild of Foreign Trade headquarters, expansive naval docks, and massive magic item fabrication plants.
+- **Pyarados:**
+    - A rugged mining region along the Sunrise Mountains. Unscrupulous Red Wizards work living laborers to death in the mines and then raise them as undead to continue mining operations indefinitely.
+- **Lapendrar:**
+    - A southwestern border province hosting the autonomous free city of **Amruthar**. Red Wizards hold no legal authority within Amruthar, making it a sanctuary for dissidents; however, city authorities require all entrants to survive a _Zone of Truth_ spell, and all deceased individuals are questioned via _Speak with Dead_ to prevent Thayan infiltration.
+- **Surthay:**
+    - A cold, swampy northern backwater containing the fetid **Surmarsh**. Characterized by hostile lizardfolk clans under Sovereigns Vrill and Xornil Fangbane, and ongoing border skirmishes with Rashemen.
+- **Gauros:**
+    - Rugged, monster-infested mining hills where Tharchion Ozgund Gar garrisons conscripts at **Fort Gar** against an active, gathering army of gnolls led by a Glabrezu named **Krazt**.
 
-- **The Alaor:** An island tharch off the southern coast featuring deepwater harbors, massive shipyards, and the command center of the Thayan Navy.
-- **Delhumide:** A rural province composed of cattle ranches and the ghost-haunted, cursed ruins of ancient Delhumide.
-- **Thazalhar:** A heavily fortified river checkpoint (**Thay Crossing**) where state inspectors examine and heavily tax merchant caravans entering from Mulhorand.
-- **Tyraturos:** The most populous mercantile tharch, crossed by the High Road and famous for the city of Tyraturos and its "hundred taverns."
-- **Thaymount:** The forbidden volcanic central plateau housing Szass Tam's Citadel, the Dread Legion garrisons, and the exclusive Red Wizard resort complex of **Szul**.
+- **The Alaor:**
+    - An island tharch off the southern coast featuring deepwater harbors, massive shipyards, and the command center of the Thayan Navy.
+- **Delhumide:**
+    - A rural province composed of cattle ranches and the ghost-haunted, cursed ruins of ancient Delhumide.
+- **Thazalhar:**
+    - A heavily fortified river checkpoint (**Thay Crossing**) where state inspectors examine and heavily tax merchant caravans entering from Mulhorand.
+- **Tyraturos:**
+    - The most populous mercantile tharch, crossed by the High Road and famous for the city of Tyraturos and its "hundred taverns."
+- **Thaymount:**
+    - The forbidden volcanic central plateau housing Szass Tam's Citadel, the Dread Legion garrisons, and the exclusive Red Wizard resort complex of **Szul**.
 
 Equipped with a comprehensive operational map of Thay's institutions, geography, and shadow conflicts, prospective agents can formulate their strategy for survival.
 
