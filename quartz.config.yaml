@@ -16,7 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Grenze Gotisch
+      header: Dr Sugiyama
       body: Literata
       code: IBM Plex Mono
     colors:
@@ -31,14 +31,14 @@ configuration:
         highlight: rgba(125, 41, 56, 0.12)
         textHighlight: "#D5A44588"
       darkMode:
-        light: "#0A0908"
+        light: "#100503"
         lightgray: "#302A28"
-        gray: "#A99A89"
-        darkgray: "#D3C5B6"
-        dark: "#F4EBDD"
-        secondary: "#E26954"
-        tertiary: "#DBB259"
-        highlight: rgba(226, 190, 114, 0.22)
+        gray: "#e1825c"
+        darkgray: "#ede2d6"
+        dark: "#fff5de"
+        secondary: "#dba291"
+        tertiary: "#e9c77d"
+        highlight: "#3d200f38"
         textHighlight: "#C7775688"
   links:
     markdownLinkResolution: shortest

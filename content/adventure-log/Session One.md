@@ -1,12 +1,11 @@
 ---
 title: Real Bazaar in Eltabbar
 ---
-
 # Summary
 
-Five former circus performers—Barleighann, Cydrian, Jaq, Vaelis, and Wren—strolled across Eltabbar on the first day of Tarsakh. In years past, Red Wizards crushed their traveling troupe because wearing red violated Thayan law. The five companions maintained cover identities in the capital while plotting an underground speakeasy in the Warehouse Ward. As they wandered into the bustling Bazaar Ward for Market First Day, each adventurer recalled fragments of Eltabbar's grim legacy, from greedy landlords and the City Watch to the demon lord Eltab and the wild magic lurking in the catacombs beneath their feet.
+Five former circus performers—[[Barleighann]], [[Cidrian Lythe|Cidrian]], [[Jaq]], [[Vaelis Duskborn|Vaelis]], and [[Wren 'Sixx' Bran|Wren]]—strolled across [[Eltabbar]] on the first day of Tarsakh. In years past, [[Red Wizards]] crushed their traveling troupe because wearing red violated Thayan law. The five companions maintained an underground speakeasy in the Warehouse Ward. As they wandered into the bustling Bazaar Ward for Market First Day, each adventurer recalled fragments of Eltabbar's grim legacy, from greedy landlords and the City Watch to the demon lord Eltab and the wild magic lurking in the catacombs beneath their feet.
 
-Vaelis scanned the crowded bridge, spotting fine silk bolts from Ven Terrytooth, pricey spyglasses from Val Vann, and jars of rare spices. Barleighann bought fresh fruit for two silver pieces and tossed a peach to Jaq before the group entered Lin's Capes and Cloaks. Shopkeeper Teeva Lin displayed luxury garments, including a four-thousand-gold Cape of the Mountebank. Wren scoffed at the cheaper cloaks and exited the boutique, while Jaq feigned boredom with the stock and urged Barleighann to claim a birthday treat.
+Vaelis scanned the crowded bridge, spotting fine silk bolts from Ven Terrytooth, pricey spyglasses from Val Vann, and jars of rare spices. Barleighann bought fresh fruit for two silver pieces and tossed a peach to Jaq before the group entered Lin's Capes and Cloaks. Shopkeeper [[Teeva Lin]] displayed luxury garments, including a four-thousand-gold *Cape of the Mountebank*. Wren scoffed at the cheaper cloaks and exited the boutique, while Jaq feigned boredom with the stock and urged Barleighann to claim a birthday treat.
 
 Eager to slash the price, Barleighann slid a hidden claw into the Cape of the Mountebank and exposed a fresh tear. Jaq accused Teeva Lin of selling moth-eaten junk while Wren cast Minor Illusion from the street to send a phantom moth fluttering through the shop. Rattled by Jaq's blistering sales pitch, the panicked merchant dropped the price to two thousand gold. Jaq covered half the cost as a gift, and Barleighann distracted Teeva Lin with counter chocolates to slip her nine hundred gold instead of one thousand.
 
