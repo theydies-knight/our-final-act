@@ -16,7 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Rakkas
+      header: Eagle Lake
       body: Literata
       code: IBM Plex Mono
     colors:
