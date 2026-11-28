@@ -149,6 +149,8 @@ plugins:
     enabled: true
     options:
       title: Campaign Wiki
+      folderDefaultState: collapsed
+      useSavedState: false
       sort:
         - { by: folder, direction: desc }
         - title
