@@ -16,7 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Aladin
+      header: Rakkas
       body: Literata
       code: IBM Plex Mono
     colors:
