@@ -6,6 +6,12 @@ html {
     border-bottom: 2px solid var(--secondary);
   }
 }
+
+.page>#quartz-body .sidebar {
+    padding: 2rem 2rem;
+    font-weight: 400;
+}
+
 // put your custom CSS here!
 article {
   h1,
@@ -16,6 +22,8 @@ article {
   h6 {
     font-family: var(--headerFont);
     line-height: 1.2;
+    font-weight: 400;
+    letter-spacing: 0.5px;
   }
 
 
