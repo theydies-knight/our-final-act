@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: Our Final Act
+  pageTitleSuffix: " | Saturdays"
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -16,7 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Dr Sugiyama
+      header: Macondo Swash Caps
       body: Literata
       code: IBM Plex Mono
     colors:
@@ -148,7 +148,7 @@ plugins:
   - source: "@quartz-community/explorer"
     enabled: true
     options:
-      title: Wiki
+      title: Campaign Wiki
       sort:
         - { by: folder, direction: desc }
         - title
